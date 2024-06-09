@@ -1,7 +1,6 @@
 AUTHOR = "https://github.com/madlinga | Mïtch (Firemaw Alliance)"
 VERSION = 1.0
 
-
 -- Version and author message in console.
 print("CombatHelm: v" .. VERSION .. " | " .. "Author: " .. AUTHOR)
 
