@@ -1,8 +1,8 @@
 # CombatHelm v1.0
 
-![CombatHelm Icon](/assets/CombatHelm.png) 
+![CombatHelm Icon](/assets/CombatHelm.png)
 
-> A lightweight WoW addon to display the players helm during combat. 
+> A lightweight WoW addon to display the players helm during combat.
 
 ## Future Improvements
 
