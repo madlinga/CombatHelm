@@ -1,5 +1,5 @@
 ## Interface: 123456
-## Title: CombatHelm - ALPHA
+## Title: CombatHelm
 ## Author: https://github.com/madlinga | Mïtch (Firemaw Alliance)
 ## Notes: Shows helm in combat.
 ## Version: 1.0
