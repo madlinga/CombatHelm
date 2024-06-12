@@ -1,6 +1,7 @@
 ## Interface: 40400
 ## Title: CombatHelm
-## Author: https://github.com/madlinga | Mïtch (Firemaw Alliance)
+## Author: Mïtch (Firemaw Alliance) | https://github.com/madlinga
 ## Notes: Shows helm in combat.
-## Version: 1.0
+## Version: 1.1
+## SavedVariablesPerCharacter: enabled
 CombatHelm.lua
